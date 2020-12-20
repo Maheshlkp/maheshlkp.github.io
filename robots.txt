@@ -1,0 +1,3 @@
+# https://www.maheshlakkapally.com
+User-agent: *
+Disallow:
